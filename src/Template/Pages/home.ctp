@@ -20,10 +20,32 @@
   <li>Paste your webhook URL provided by OpenShift</li>
   <li>Leave the defaults for the remaining fields &mdash; that's it!</li>
 </ol>
-<img src="/img/pizza-card.png"/>
-<img src="/img/kube-activity-card.png"/>
-<img src="/img/petclinic-card.png"/>
-
+<div class="card-group">
+    <div class="card" style="width: 18rem;">
+        <img class="card-img-top" src="/img/pizza-card.png" alt="Card image cap">
+        <div class="card-body">
+            <h5 class="card-title">Activity</h5>
+            <p class="card-text">Event-Driven Architecture using Apache Kafka (with Red Hat OpenShift Streams for Apache Kafka)</p>
+            <a href="https://developers.redhat.com/node/226211" class="btn btn-primary">Take me there</a>
+        </div>
+    </div>
+    <div class="card" style="width: 18rem;">
+        <img class="card-img-top" src="/img/petclinic-card.png" alt="Card image cap">
+        <div class="card-body">
+            <h5 class="card-title">Activity</h5>
+            <p>Deploy a Java Application on Kubernetes in minutes</p>
+            <a href="https://developers.redhat.com/node/226211" class="btn btn-primary">Take me there</a>
+        </div>
+    </div>
+    <div class="card" style="width: 18rem;">
+        <img class="card-img-top" src="/img/kube-activity-card.png" alt="Card image cap">
+        <div class="card-body">
+            <h5 class="card-title">Activity</h5>
+            <p>Learn Kubernetes</p>
+            <a href="https://developers.redhat.com/node/226211" class="btn btn-primary">Take me there</a>
+        </div>
+    </div>
+</div>
 <p>After you save your webhook, if you refresh your settings page you can see the status of the ping that Github sent to OpenShift to verify it can reach the server.</p>
 <p>Note: adding a webhook requires your OpenShift server to be reachable from GitHub.</p>
 
