@@ -20,6 +20,8 @@
   <li>Paste your webhook URL provided by OpenShift</li>
   <li>Leave the defaults for the remaining fields &mdash; that's it!</li>
 </ol>
+<img src="/img/pizza-card.png"/>
+
 <p>After you save your webhook, if you refresh your settings page you can see the status of the ping that Github sent to OpenShift to verify it can reach the server.</p>
 <p>Note: adding a webhook requires your OpenShift server to be reachable from GitHub.</p>
 
