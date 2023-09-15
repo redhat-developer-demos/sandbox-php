@@ -4,11 +4,11 @@
               
 <div class="card-group">
     <div class="card" style="width: 18rem;">
-        <img class="card-img-top" src="/img/pizza-card.png" alt="Card image cap">
+        <img class="card-img-top" src="/img/ST-serverless_large.png" alt="Card image cap">
         <div class="card-body">
             <h5 class="card-title">Activity</h5>
-            <p class="card-text">Event-Driven Architecture using Apache Kafka (with Red Hat OpenShift Streams for Apache Kafka)</p>
-            <a href="https://developers.redhat.com/node/226211" class="btn btn-primary">Take me there</a>
+            <p class="card-text">Create an OpenShift Serverless function</p>
+            <a href="https://developers.redhat.com/developer-sandbox/activities/create-openshift-serverless-function" class="btn btn-primary">Take me there</a>
         </div>
     </div>
     <div class="card" style="width: 18rem;">
@@ -16,7 +16,7 @@
         <div class="card-body">
             <h5 class="card-title">Activity</h5>
             <p>Deploy a Java Application on Kubernetes in minutes</p>
-            <a href="https://developers.redhat.com/node/226211" class="btn btn-primary">Take me there</a>
+            <a href="https://developers.redhat.com/developer-sandbox/activities/how-to-deploy-java-application-in-kubernetes" class="btn btn-primary">Take me there</a>
         </div>
     </div>
     <div class="card" style="width: 18rem;">
@@ -24,7 +24,7 @@
         <div class="card-body">
             <h5 class="card-title">Activity</h5>
             <p>Learn Kubernetes</p>
-            <a href="https://developers.redhat.com/node/226211" class="btn btn-primary">Take me there</a>
+            <a href="https://developers.redhat.com/developer-sandbox/activities/learn-kubernetes-using-red-hat-developer-sandbox-openshift" class="btn btn-primary">Take me there</a>
         </div>
     </div>
 </div>
